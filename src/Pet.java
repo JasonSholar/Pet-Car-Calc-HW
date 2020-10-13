@@ -35,19 +35,19 @@ public int getAge(){
     return age;
 }
 
-public void setName(String name){
-    this.name = name;
-}
+// public void setName(String name){
+//     this.name = name;
+// }
 
-public void setLocation(String location){
-    this.location = location;
-}
+// public void setLocation(String location){
+//     this.location = location;
+// }
 
-public void setPetType(String petType){
-    this.petType = petType;
-}
+// public void setPetType(String petType){
+//     this.petType = petType;
+// }
 
-public void setAge(int age){
-    this.age = age;
-     }
+// public void setAge(int age){
+//     this.age = age;
+//      }
 }
